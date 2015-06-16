@@ -1,6 +1,6 @@
 # UbuntuLinux
 
-Um script simples para realiza uma limpeza em seu sistema Ubuntu
+Script simples para limpeza de seu sistema Ubuntu
 
 - Limpeza da Leixeira
 - Limpando a pasta TMP
